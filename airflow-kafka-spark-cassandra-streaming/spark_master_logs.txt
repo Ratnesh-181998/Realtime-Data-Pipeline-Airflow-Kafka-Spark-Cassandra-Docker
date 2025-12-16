@@ -1,0 +1,25 @@
+
+[38;5;6mspark [38;5;5m04:00:14.92 [0m[38;5;2mINFO [0m ==> 
+[38;5;6mspark [38;5;5m04:00:14.92 [0m[38;5;2mINFO [0m ==> [1mWelcome to the Bitnami spark container[0m
+[38;5;6mspark [38;5;5m04:00:14.93 [0m[38;5;2mINFO [0m ==> Subscribe to project updates by watching [1mhttps://github.com/bitnami/containers[0m
+[38;5;6mspark [38;5;5m04:00:14.94 [0m[38;5;2mINFO [0m ==> Submit issues and feature requests at [1mhttps://github.com/bitnami/containers/issues[0m
+[38;5;6mspark [38;5;5m04:00:14.95 [0m[38;5;2mINFO [0m ==> 
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/12/16 04:00:28 INFO Master: Started daemon with process name: 1@1c96a1aef461
+25/12/16 04:00:28 INFO SignalUtils: Registering signal handler for TERM
+25/12/16 04:00:28 INFO SignalUtils: Registering signal handler for HUP
+25/12/16 04:00:28 INFO SignalUtils: Registering signal handler for INT
+25/12/16 04:00:30 INFO SecurityManager: Changing view acls to: spark
+25/12/16 04:00:30 INFO SecurityManager: Changing modify acls to: spark
+25/12/16 04:00:30 INFO SecurityManager: Changing view acls groups to: 
+25/12/16 04:00:30 INFO SecurityManager: Changing modify acls groups to: 
+25/12/16 04:00:30 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: spark; groups with view permissions: EMPTY; users with modify permissions: spark; groups with modify permissions: EMPTY
+25/12/16 04:00:31 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+25/12/16 04:00:33 INFO Utils: Successfully started service 'sparkMaster' on port 7077.
+25/12/16 04:00:34 INFO Master: Starting Spark master at spark://172.19.0.3:7077
+25/12/16 04:00:34 INFO Master: Running Spark version 3.5.0
+25/12/16 04:00:34 INFO JettyUtils: Start Jetty 0.0.0.0:8080 for MasterUI
+25/12/16 04:00:35 INFO Utils: Successfully started service 'MasterUI' on port 8080.
+25/12/16 04:00:35 INFO MasterWebUI: Bound MasterWebUI to 0.0.0.0, and started at http://1c96a1aef461:8080
+25/12/16 04:00:36 INFO Master: I have been elected leader! New state: ALIVE
+25/12/16 04:00:38 INFO Master: Registering worker 172.19.0.6:36405 with 2 cores, 1024.0 MiB RAM

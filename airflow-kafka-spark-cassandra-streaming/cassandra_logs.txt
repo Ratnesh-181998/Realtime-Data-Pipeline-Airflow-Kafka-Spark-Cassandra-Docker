@@ -1,0 +1,100 @@
+INFO  [Notification Thread] 2025-12-16 06:29:00,433 StatusLogger.java:121 - system.size_estimates              1620,33371
+INFO  [Notification Thread] 2025-12-16 06:29:00,438 StatusLogger.java:121 - system.table_estimates             3240,71810
+INFO  [Notification Thread] 2025-12-16 06:29:00,440 StatusLogger.java:121 - system.paxos                              0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,447 StatusLogger.java:121 - system.sstable_activity_v2                 0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,449 StatusLogger.java:121 - system.paxos_repair_history                 0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,452 StatusLogger.java:121 - system.built_views                        0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,453 StatusLogger.java:121 - system.peer_events                        0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,455 StatusLogger.java:121 - system.peers_v2                           0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,458 StatusLogger.java:121 - system.peers                              0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,472 StatusLogger.java:121 - system.peer_events_v2                     0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,474 StatusLogger.java:121 - system.batches                            0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,475 StatusLogger.java:121 - system.transferred_ranges                 0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,483 StatusLogger.java:121 - system.transferred_ranges_v2                 0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,486 StatusLogger.java:121 - system.view_builds_in_progress                 0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,487 StatusLogger.java:121 - system.local                              0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,488 StatusLogger.java:121 - system.sstable_activity                   0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,492 StatusLogger.java:121 - system.top_partitions                     0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,497 StatusLogger.java:121 - system.available_ranges_v2                 0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,502 StatusLogger.java:121 - system.available_ranges                   0,0
+INFO  [Notification Thread] 2025-12-16 06:29:00,507 StatusLogger.java:121 - system.prepared_statements                 0,0
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:30:04,796 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:30:04,846 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+INFO  [ScheduledTasks:1] 2025-12-16 06:30:05,479 NoSpamLogger.java:104 - Some operations were slow, details available at debug level (debug.log)
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:30:48,668 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:30:58,311 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:31:38,933 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:31:38,937 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+WARN  [Native-Transport-Requests-2] 2025-12-16 06:31:55,208 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:32:33,451 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:32:44,153 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:32:44,156 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:32:53,107 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:33:03,194 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:33:12,955 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:33:22,373 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:33:31,436 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:33:41,584 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:33:52,454 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:33:52,455 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:34:01,388 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:34:10,375 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:34:18,725 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:34:25,929 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:34:34,439 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:34:42,942 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:34:51,316 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:35:05,085 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:35:05,087 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:36:33,630 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:36:33,686 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+INFO  [ScheduledTasks:1] 2025-12-16 06:36:35,409 NoSpamLogger.java:104 - Some operations were slow, details available at debug level (debug.log)
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:39:42,393 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:39:42,429 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:41:20,667 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:41:20,736 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:43:38,325 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:43:38,357 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+INFO  [ScheduledTasks:1] 2025-12-16 06:43:41,140 NoSpamLogger.java:104 - Some operations were slow, details available at debug level (debug.log)
+INFO  [Notification Thread] 2025-12-16 06:46:01,374 GCInspector.java:285 - G1 Young Generation GC in 559ms.  G1 Eden Space: 251658240 -> 0; G1 Old Gen: 90721792 -> 90785280; G1 Survivor Space: 2234544 -> 1898800; 
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:46:01,803 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:46:01,861 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+INFO  [ScheduledTasks:1] 2025-12-16 06:51:12,165 NoSpamLogger.java:104 - Some operations were slow, details available at debug level (debug.log)
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:51:13,301 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:51:13,327 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:51:37,497 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-2] 2025-12-16 06:54:58,171 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-2] 2025-12-16 06:54:58,227 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+WARN  [Native-Transport-Requests-2] 2025-12-16 06:56:24,740 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-2] 2025-12-16 06:56:24,746 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+INFO  [ScheduledTasks:1] 2025-12-16 06:56:27,431 NoSpamLogger.java:104 - Some operations were slow, details available at debug level (debug.log)
+WARN  [Native-Transport-Requests-2] 2025-12-16 06:56:42,777 SelectStatement.java:557 - Aggregation query used without partition key
+INFO  [Notification Thread] 2025-12-16 06:56:42,960 GCInspector.java:285 - G1 Young Generation GC in 355ms.  G1 Eden Space: 251658240 -> 0; G1 Old Gen: 90785280 -> 90839040; G1 Survivor Space: 1898800 -> 632144; 
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:56:54,814 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 06:57:10,009 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 07:00:03,920 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 07:00:03,972 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+INFO  [ScheduledTasks:1] 2025-12-16 07:00:43,381 ColumnFamilyStore.java:1052 - Enqueuing flush of system.size_estimates, Reason: MEMTABLE_PERIOD_EXPIRED, Usage: 196.354KiB (0%) on-heap, 0B (0%) off-heap
+INFO  [ScheduledTasks:1] 2025-12-16 07:00:43,589 ColumnFamilyStore.java:1052 - Enqueuing flush of system.table_estimates, Reason: MEMTABLE_PERIOD_EXPIRED, Usage: 507.140KiB (0%) on-heap, 0B (0%) off-heap
+INFO  [PerDiskMemtableFlushWriter_0:10] 2025-12-16 07:00:44,104 Flushing.java:153 - Writing Memtable-size_estimates@998834454(32.589KiB serialized bytes, 3240 ops, 196.354KiB (0%) on-heap, 0B (0%) off-heap), flushed range = [min(-9223372036854775808), max(9223372036854775807))
+INFO  [PerDiskMemtableFlushWriter_0:9] 2025-12-16 07:00:44,122 Flushing.java:153 - Writing Memtable-table_estimates@1561338705(70.127KiB serialized bytes, 6480 ops, 507.140KiB (0%) on-heap, 0B (0%) off-heap), flushed range = [min(-9223372036854775808), max(9223372036854775807))
+INFO  [PerDiskMemtableFlushWriter_0:10] 2025-12-16 07:00:44,340 Flushing.java:179 - Completed flushing /var/lib/cassandra/data/system/size_estimates-618f817b005f3678b8a453f3930b8e86/nb-3-big-Data.db (21.839KiB) for commitlog position CommitLogPosition(segmentId=1765857636541, position=4465498)
+INFO  [PerDiskMemtableFlushWriter_0:9] 2025-12-16 07:00:44,583 Flushing.java:179 - Completed flushing /var/lib/cassandra/data/system/table_estimates-176c39cdb93d33a5a2188eb06a56f66e/nb-3-big-Data.db (49.688KiB) for commitlog position CommitLogPosition(segmentId=1765857636541, position=4465498)
+INFO  [IndexSummaryManager:1] 2025-12-16 07:00:44,836 IndexSummaryRedistribution.java:103 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2025-12-16 07:00:44,856 IndexSummaryRedistribution.java:115 - Beginning redistribution of index summaries for 25 sstables with memory pool size 25 MiB; current spaced used is 5.8746337890625E-4 MiB
+INFO  [IndexSummaryManager:1] 2025-12-16 07:00:44,876 IndexSummaryRedistribution.java:268 - index summaries: downsample: 0, force resample: 0, upsample: 0, force upsample: 0
+INFO  [IndexSummaryManager:1] 2025-12-16 07:00:44,929 IndexSummaryRedistribution.java:154 - Completed resizing of index summaries; current approximate memory used: 5.8746337890625E-4 MiB, time spent: 94ms
+WARN  [Native-Transport-Requests-1] 2025-12-16 07:03:01,321 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 07:03:01,324 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+WARN  [Native-Transport-Requests-1] 2025-12-16 07:03:51,678 SelectStatement.java:557 - Aggregation query used without partition key
+INFO  [Notification Thread] 2025-12-16 07:03:52,483 GCInspector.java:285 - G1 Young Generation GC in 430ms.  G1 Eden Space: 234881024 -> 0; G1 Old Gen: 90839040 -> 91074048; G1 Survivor Space: 632144 -> 3756656; 
+INFO  [ScheduledTasks:1] 2025-12-16 07:03:52,837 NoSpamLogger.java:104 - Some operations were slow, details available at debug level (debug.log)
+WARN  [Native-Transport-Requests-1] 2025-12-16 07:05:35,909 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 07:05:35,958 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+WARN  [Native-Transport-Requests-1] 2025-12-16 07:17:08,574 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 07:17:08,628 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
+INFO  [ScheduledTasks:1] 2025-12-16 07:17:12,817 NoSpamLogger.java:104 - Some operations were slow, details available at debug level (debug.log)
+WARN  [Native-Transport-Requests-1] 2025-12-16 07:18:01,561 SelectStatement.java:557 - Aggregation query used without partition key
+INFO  [Notification Thread] 2025-12-16 07:18:30,721 GCInspector.java:285 - G1 Young Generation GC in 417ms.  G1 Eden Space: 234881024 -> 0; G1 Old Gen: 91074048 -> 91105792; G1 Survivor Space: 3756656 -> 3451096; 
+WARN  [Native-Transport-Requests-1] 2025-12-16 07:18:56,829 SelectStatement.java:557 - Aggregation query used without partition key
+WARN  [Native-Transport-Requests-1] 2025-12-16 07:18:56,830 NoSpamLogger.java:107 - Aggregation query used without partition key on table spark_streams.created_users, aggregation type: AGGREGATE_EVERYTHING
