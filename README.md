@@ -14,6 +14,13 @@
 
 This project implements a scalable, fault-tolerant, **End-to-End Real-Time Data Engineering Pipeline** capable of processing user data in milliseconds. It demonstrates a complete flow from data ingestion to visualization using industry-standard tools.
 
+---
+## 🌐🎬 Live Demo
+🚀 **Try it now:**
+- **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
+- **Project Demo** - https://realtime-data-pipeline-airflow-kafka-spark-cassandra-docker-7v.streamlit.app/
+- **Technologies** - Apache Airflow(Orchestrator),Python,Apache Kafka(Message Broker),Apache Zookeeper,Apache Spark(Stream Processing) ,Cassandra(NoSQL Database),PostgreSQL,Docker(Containerization)
+---
 ### 🌟 Key Features
 - **Real-Time Data Ingestion**: Systematically fetches user data from an external API (`randomuser.me`) using **Apache Airflow**.
 - **Event Streaming**: Uses **Apache Kafka** (and Zookeeper) to buffer and stream data events, ensuring decoupling and reliability.
@@ -26,7 +33,8 @@ This project implements a scalable, fault-tolerant, **End-to-End Real-Time Data 
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](https://github.com/Ratnesh-181998/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/blob/main/Data%20engineering%20architecture.png?raw=true)
+<img width="1654" height="622" alt="image" src="https://github.com/user-attachments/assets/ebd8ddff-4082-450e-a1b8-3dffcb5c1c85" />
+
 
 The pipeline follows a standard robust data engineering architecture:
 1.  **Ingestion Source**: `randomuser.me` API.
@@ -141,9 +149,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - 📱 Phone: +91-947XXXXX46
 
 ### Project Links
-- 🌐 Live Demo: [Streamlit Cloud App](https://realtime-data-pipeline-demo.streamlit.app/)
+- 🌐 Live Demo: [Streamlit Cloud App](https://realtime-data-pipeline-airflow-kafka-spark-cassandra-docker-7v.streamlit.app/)
 - 📖 Documentation: [GitHub Wiki](https://github.com/Ratnesh-181998/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker)
 - 🐛 Issue Tracker: [GitHub Issues](https://github.com/Ratnesh-181998/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/issues)
 
 ---
-*Built with ❤️ by Ratnesh Singh | Data Scientist*
+*Built with ❤️ by Ratnesh Singh | Data Scientist(4+Year Experience)*
